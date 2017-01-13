@@ -1,0 +1,41 @@
+\select@language {polish}
+\contentsline {section}{\numberline {1}Wst\IeC {\k e}p}{3}
+\contentsline {section}{\numberline {2}Difference Operation Method}{5}
+\contentsline {subsection}{\numberline {2.1}Cel projektu}{5}
+\contentsline {subsection}{\numberline {2.2}Opis algorytmu}{5}
+\contentsline {subsection}{\numberline {2.3}Implementacja algorytmu w programie Matlab}{10}
+\contentsline {subsection}{\numberline {2.4}Implementacja algorytmu w j\IeC {\k e}zyku C++}{15}
+\contentsline {subsection}{\numberline {2.5}Podsumowanie}{15}
+\contentsline {section}{\numberline {3}Empirical Mode Decomposition}{17}
+\contentsline {subsection}{\numberline {3.1}Koncepcja proponowanego rozwi\IeC {\k a}zania}{18}
+\contentsline {subsection}{\numberline {3.2}Prototyp rozwi\IeC {\k a}zania w \IeC {\'s}rodowisku MATLAB}{20}
+\contentsline {section}{\numberline {4}Detekcja QRS z u\IeC {\.z}yciem filtracji kwadratowej}{25}
+\contentsline {subsection}{\numberline {4.1}Opis teoretyczny}{25}
+\contentsline {subsubsection}{\numberline {4.1.1}Filtracja}{25}
+\contentsline {subsubsection}{\numberline {4.1.2}Detekcja zespo\IeC {\l }\IeC {\'o}w QRS}{26}
+\contentsline {subsection}{\numberline {4.2}Implementacja w \IeC {\'s}rodowisku Matlab}{28}
+\contentsline {subsection}{\numberline {4.3}Implementacja w j\IeC {\k e}zyku C++}{30}
+\contentsline {section}{\numberline {5}Dynamic Plosion Index}{33}
+\contentsline {subsection}{\numberline {5.1}Wprowadzenie}{33}
+\contentsline {subsection}{\numberline {5.2}Opis algorytmu}{33}
+\contentsline {subsubsection}{\numberline {5.2.1}Przetwarzanie wst\IeC {\k e}pne sygna\IeC {\l }u}{33}
+\contentsline {subsubsection}{\numberline {5.2.2}Plosion Index}{34}
+\contentsline {subsubsection}{\numberline {5.2.3}Dynamic Plosion Index}{35}
+\contentsline {subsubsection}{\numberline {5.2.4}Wyznaczanie pozycji za\IeC {\l }amk\IeC {\'o}w QRS}{35}
+\contentsline {paragraph}{Inicjalizacja}{35}
+\contentsline {paragraph}{Wyznaczenie wsp\IeC {\'o}\IeC {\l }czynnika DPI}{35}
+\contentsline {paragraph}{Parametr swing}{35}
+\contentsline {paragraph}{Korekta lokalizacji QRS}{36}
+\contentsline {subsection}{\numberline {5.3}Implementacja algorytmu}{36}
+\contentsline {subsubsection}{\numberline {5.3.1}Funkcje wej\IeC {\'s}cia-wyj\IeC {\'s}cia}{37}
+\contentsline {subsubsection}{\numberline {5.3.2}Funkcje pomocnicze}{37}
+\contentsline {subsubsection}{\numberline {5.3.3}G\IeC {\l }\IeC {\'o}wne funkcjonalno\IeC {\'s}ci}{37}
+\contentsline {subsection}{\numberline {5.4}Detekcja zespo\IeC {\l }\IeC {\'o}w QRS w sygna\IeC {\l }ach bazy MIT-BIH}{38}
+\contentsline {subsection}{\numberline {5.5}Ocena statystyczna detektora opartego o Dynamic Plosion Index}{40}
+\contentsline {section}{\numberline {6}Mathematical Morphology}{42}
+\contentsline {subsection}{\numberline {6.1}Cel projektu}{42}
+\contentsline {subsection}{\numberline {6.2}Przekszta\IeC {\l }cenia morfologiczne}{42}
+\contentsline {subsection}{\numberline {6.3}Filtracja sygna\IeC {\l }u}{42}
+\contentsline {subsection}{\numberline {6.4}Detekcja za\IeC {\l }amk\IeC {\'o}w QRS}{43}
+\contentsline {subsection}{\numberline {6.5}Wyniki detekcji}{48}
+\contentsline {section}{\numberline {7}Por\IeC {\'o}wnanie wynik\IeC {\'o}w}{51}
